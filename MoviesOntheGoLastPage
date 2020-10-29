@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<hmtl>
+	<head>
+		<title>Movies On the Go Lastpage</title>
+	<link rel ="stylesheet" type="text/css" href="last.css">
+	</head>
+
+<a href="https://images.unsplash.com/photo-1498550744921-75f79806b8a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
+<body>
+	<header>
+		<div class="wrapper">
+			<div class="logo">
+			</div>
+			<ul class="nav-area">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Login/Register</a></li>
+				<li><a href="#">Movie Selections</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</div>
+
+		<div class="welcome-text">
+			<h1>Movies On the Go End Page</h1>
+			<a href="#">This website was made possible by W3.schools.com,https://unsplash.com/, and lot of hard work and dedication.This website used HTML, CSS, and JS. </a>
+		</div>
+	</header>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+</hmtl>
