@@ -3,7 +3,7 @@ body{
 	padding:0;
 	background-image:url("https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-1.2.1&auto=format&fit=crop&w=882&q=80");
 	background-repeat:no-repeat;
-	background-size:1500px 1500px;
+	background-size:1500px 3000px;
 }
 .name{
 	text-align:left;
@@ -13,3 +13,10 @@ body{
 	text-align:center;
 
 }
+#buttonsz{
+	color: red; text-align: center;
+}
+#buttonsss{
+	color: black; text-align: center; 
+}
+.imagege {height: 150px; width: 200px}
